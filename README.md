@@ -106,9 +106,8 @@ Top 10 Dominant Frequencies:
 9.249.02 Hz (Magnitude = 1.78e+01)
 10.247.56 Hz (Magnitude = 1.76e+01)
 ```
-
-
 <img width="1162" height="489" alt="501365544-1f87f136-8036-4889-915a-a7e5cc7ffa19" src="https://github.com/user-attachments/assets/27fe9857-d4be-4df4-b20d-5063153607bf" />
 
-# RESULTS
+# RESULT:
+
 Thus,Analysis of DFT with Audio Signal is successfully implemented using Python.
